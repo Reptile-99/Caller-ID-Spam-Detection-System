@@ -9,8 +9,8 @@ node_modules/
 build/
 app/build/
 local.properties
-*.apk
-!releases/*.apk
+build/**/*.apk
+!releases/*
 *.aab
 *.keystore
 *.jks
