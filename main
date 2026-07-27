@@ -1,0 +1,2 @@
+// Main entry point reference for Supabase Backend Architecture
+export * from "./supabase/functions/_shared/phone_normalizer.ts";

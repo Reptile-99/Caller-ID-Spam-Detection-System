@@ -1,0 +1,28 @@
+# Dependencies & Tooling
+node_modules/
+.env
+.env.local
+.supabase/
+
+# Android Build artifacts
+.gradle/
+build/
+app/build/
+local.properties
+*.apk
+*.aab
+*.keystore
+*.jks
+
+# Flutter artifacts
+.dart_tool/
+.packages
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# IDE & OS files
+.idea/
+.vscode/
+*.swp
+*.DS_Store
+Thumbs.db
